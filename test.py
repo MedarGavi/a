@@ -1,5 +1,7 @@
-a=10
-b=20
+a=200
+b=1000
+print("a=",a)
+print("b=",b)
 temp=a
 a=b
 b=temp
